@@ -1,2 +1,2 @@
 # fuzzy-broccoli
-This is not an ordinary greens.
+This is not our ordinary greens.
